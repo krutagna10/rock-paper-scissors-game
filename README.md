@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [https://rock-paper-scissors-10.vercel.app/]
+- Live Site URL: [https://rock-paper-scissors-game-10.vercel.app/]
 
 ### Built with
 
